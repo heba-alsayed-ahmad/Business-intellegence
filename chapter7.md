@@ -30,13 +30,13 @@ and predictive modeling began to become feasible.*
 >
 > **The ecosystem started to see two very distinct phenomena.** 
 >
-> 1.                 *The growth of specialized vendors who provided services in the area of statistical
+ 1.                 *The growth of specialized vendors who provided services in the area of statistical
 and mathematical modeling.*
-> 2.                *The logical extension of the BI Vendors rebranding as “Analytics Solution
+ 2.                *The logical extension of the BI Vendors rebranding as “Analytics Solution
 Providers” by leveraging their data infrastructure and add value added features
 and services on top.*
->   # “Analytics”
-> was defined and redefined frequently
+   - “Analytics”
+ was defined and redefined frequently
 and usually to suit the convenience of the people spending the most money*
 
 
