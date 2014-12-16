@@ -22,20 +22,24 @@ Technologies*
 > - *The rising growth of the Internet as a commercial platform, coupled with the
 ever reducing cost of storage, and growth of computational capabilities significantly
 accelerated the rate and scope of data collection.*
-> - *BI Vendors : A slew of vendors started selling a variety of solutions that could collect, collate
+> - **BI Vendors** :*A slew of vendors started selling a variety of solutions that could collect, collate
 and query and retrieve large volumes of data very efficiently.*
 > - *The 2000s: As organizations began to come to terms with the richness and volume
 of data that was available, sophisticated analytical techniques for forecasting
 and predictive modeling began to become feasible.*
->- *The ecosystem started to see two very distinct phenomena.*
-> -                 *The growth of specialized vendors who provided services in the area of statistical
+>
+> **The ecosystem started to see two very distinct phenomena.** 
+>
+> 1.                 *The growth of specialized vendors who provided services in the area of statistical
 and mathematical modeling.*
-> -                 *The logical extension of the BI Vendors rebranding as “Analytics Solution
+> 2.                *The logical extension of the BI Vendors rebranding as “Analytics Solution
 Providers” by leveraging their data infrastructure and add value added features
 and services on top.*
+> + *the term “Analytics” was defined and redefined frequently
+and usually to suit the convenience of the people spending the most money*
 
 
 
 
 
----
+
