@@ -47,6 +47,27 @@ and usually to suit the convenience of the people spending the most money*
 but rather on Business Units to drive the analytics that they need.
   3. Companies that involve the Business Users in their BI initiative show more success
 that those who do not.
+>
+> # *Business Intelligence for Analytics* #
+>=============================================
+The evolution of BI data infrastructure can be put into three stages:
+ 1. Single-Pass Analytics Systems:This design imagines a situation where data flows linearly from OLTP
+to BI to the reports used by analysts. In this case, the data flow looks like it hits a “dead end” in the analyses.
+ 2. Overlapped Analytics Systems (Single-Pass and Looped)—in the real
+world, analysts get data from various systems (not just the official BI databases)
+and process it in their own analyses that are provided to decision makers,affairs,this
+creates data loops, which manifest downstream in overlapping and conflicting
+reports.
+ 3. Closed-Loop Analytics Systems:This stage aligns the data-flows and data-stores in support of the analytics
+function, and avoids the loops and overlaps in the previous stage,There is a huge conflict in the second stage between analysts who continuously evolve their own models and their IT counterparts who encode models into the
+databases and data flows in the form of database designs,this conflict is resolved by separating the concept of input data
+(stored in a “Data Arrival Stage”) and model data (stored in “Business Analytics
+Databases”).
+>
+> # *Business Intelligence in the Analytics Framework* #
+>=============================================
+ 
+ 
 
 
 
