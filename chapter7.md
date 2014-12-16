@@ -28,9 +28,9 @@ and query and retrieve large volumes of data very efficiently.*
 of data that was available, sophisticated analytical techniques for forecasting
 and predictive modeling began to become feasible.*
 >- *The ecosystem started to see two very distinct phenomena.*
->                 - *The growth of specialized vendors who provided services in the area of statistical
+> -                 *The growth of specialized vendors who provided services in the area of statistical
 and mathematical modeling.*
->                 - *The logical extension of the BI Vendors rebranding as “Analytics Solution
+> -                 *The logical extension of the BI Vendors rebranding as “Analytics Solution
 Providers” by leveraging their data infrastructure and add value added features
 and services on top.*
 
