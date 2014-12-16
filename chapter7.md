@@ -44,9 +44,7 @@ and usually to suit the convenience of the people spending the most money*
   1. A large number BI projects fail—a recent Gartner study estimated that less than
 30 % of BI projects were deemed to meet the needs of the Business.
   2. Funding for analytics and BI initiatives will be less dependent on IT budgets,
-but rather on Business Units to drive the analytics that they need—it is estimated
-that by 2012, Business Units will control and contribute at least 40 % of
-the BI budget.
+but rather on Business Units to drive the analytics that they need.
   3. Companies that involve the Business Users in their BI initiative show more success
 that those who do not.
 
