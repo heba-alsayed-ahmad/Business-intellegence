@@ -35,9 +35,20 @@ and mathematical modeling.*
  2.                *The logical extension of the BI Vendors rebranding as “Analytics Solution
 Providers” by leveraging their data infrastructure and add value added features
 and services on top.*
-   - “Analytics”
+>
+**“Analytics”**
  was defined and redefined frequently
 and usually to suit the convenience of the people spending the most money*
+>
+> **some symptoms seen (up to) today become obvious**
+  1. A large number BI projects fail—a recent Gartner study estimated that less than
+30 % of BI projects were deemed to meet the needs of the Business.
+  2. Funding for analytics and BI initiatives will be less dependent on IT budgets,
+but rather on Business Units to drive the analytics that they need—it is estimated
+that by 2012, Business Units will control and contribute at least 40 % of
+the BI budget.
+  3. Companies that involve the Business Users in their BI initiative show more success
+that those who do not.
 
 
 
