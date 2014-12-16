@@ -35,7 +35,8 @@ and mathematical modeling.*
 > 2.                *The logical extension of the BI Vendors rebranding as “Analytics Solution
 Providers” by leveraging their data infrastructure and add value added features
 and services on top.*
-> + *the term “Analytics” was defined and redefined frequently
+>   # “Analytics”
+> was defined and redefined frequently
 and usually to suit the convenience of the people spending the most money*
 
 
