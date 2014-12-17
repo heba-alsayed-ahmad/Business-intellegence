@@ -262,7 +262,7 @@ comments and recommendations.*
 >
 > # *Inline Analytics Tools Deployment*
 >======================================
-> -*All the analytical tools described in the previous section are, by their very nature,
+> - *All the analytical tools described in the previous section are, by their very nature,
 geared for an Offline mode of operation.*
 > - *Offline refers to the fact that the model
 output is not consumed in real time, but rather to aid in human decision making.*
