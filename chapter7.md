@@ -65,7 +65,22 @@ databases and data flows in the form of database designs,this conflict is resolv
 Databases”).
 >
 > # *Business Intelligence in the Analytics Framework* #
->=============================================
+>====================================================
+ - The Business Intelligence function includes several assets (databases, systems,
+tools) and processes that interact with the other functions of the analytics framework.
+ - The BI function is responsible for providing the technology underpinning
+analytics.
+ - In any case it helps to assess where the BI technology stands against a scale of
+what’s possible:
+1.  Unable to provide analytics systems (data, tools and infrastructure).
+2.  Partially provides the analytics systems and data required and refreshes the
+data periodically for off-line analyses.
+3.  Fully provides analytics systems and refreshes the data periodically for
+off-line analyses.
+4.  Enables analytics to be executed in-line, i.e., used seamlessly within business
+processes.
+5.  Delivers enterprise-wide in-line analytics, so the organization can use analytics
+at scale and without delay.
  
  
 
