@@ -93,6 +93,45 @@ and manage transaction oriented applications.*
 capture data for each transaction.*
 > - *Transactions cannot be completed and logged with
 incomplete or inaccurate data*
+>
+> # *Benchmarks and External Data Sources*
+>===========================================
+> - *OLTP systems provide significant volumes of data, they tend to be myopic
+in that they only address the processes and systems that they support*
+> - *BI systems can source data sources external
+to the organization.*
+> - *For starters, aligning this data against internal hierarchies and dimensions
+is fraught with danger, since the process of collation necessarily obfuscates
+such organization specific data and instead uses some generic classification. For
+instance, the organizations may choose to view the US and Canada as two distinct
+sales regions, but the retail sales data may choose to tag them collectively under
+“North America”. Such disconnects could make such data unusable for analytics.*
+> - *In addition, such data sources are never exhaustive, in that, they never truly
+capture all the market activity. Channels that are too new or too small to be
+captured under this umbrella will be missed*
+> - *It is, therefore, critical to establish a feedback loop to the external data providers
+to help assure and improve the quality of the data supply*
+> - *Example: Airline reservation systems (Sabre, Galileo etc.) provide participating
+carriers a consolidated data set that is a true record of every single ticket sold
+through the reservation system. However, this data does not include tickets sold
+directly through an airlines web site.*
+> - *With increasing adoption of online booking, the “missed” portion of the data assumes
+significant proportions.*
+>
+> # *Survey Tools*
+>================
+> - *In those cases where surveying is conducted in-house, BI tools provide data from
+a variety of survey questionnaires, the most common being Customer Satisfaction
+(CSAT) Surveys, Employee Feedback Surveys.*
+> - *Other types of Survey data include more generic surveys like Salary Surveys*
+> - *The biggest challenge in including Survey data into a data warehouse is the
+inability to attach them to the common hierarchies.*
+>
+> # *Analytical Output*
+>======================
+>- *A source of data not generally thought of as a “source” per se, is the output and
+results of analytics models.*
+> - *model output is often used as input to other models.*
 
  
  
