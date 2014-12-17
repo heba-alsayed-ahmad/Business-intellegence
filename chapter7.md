@@ -226,6 +226,73 @@ use merits calling it out separately.*
 are similar to Reporting, with the emphasis being more on the distribution and
 visual display of a Dashboard that presents a set of selected metrics in a graphically
 compelling and usable format.*
+>
+> # *Data Visualization*
+>========================
+>*If a picture is worth a thousand words, we can only imagine what effective visualization
+capabilities are worth Visualization tools go beyond pretty charts and
+allow the user to visualize analytical output and what-if scenario evaluation*
+>
+> # *Modeling Capabilities*
+>==========================
+> *The ability to build statistical and optimization models
+quickly enables the analyst to explore and leverage a larger scope of the analytical
+knowledge base, and choose the modeling approach or technique best suited
+for the problem at hand*
+>
+> # *Spreadsheets and Microsoft Office Integration*
+>=================================================
+> *Microsoft Excel remains the single most popular
+and common tool for quick and basic analysis. It goes without saying that for a BI
+platform to gain acceptance it should cater to the needs of the single most popular
+consumption medium.*
+>
+> # *Data Stewardship and Meta Data Management*
+>===========================================
+> *As databases grow in size and complexity, it is critical to have effective data management practices in place
+to allow the users to effectively search for and find the exact data they are looking
+for. One could get away without this function in the past, but as more and more data
+is handled in the BI framework, the importance of this capability can only increase.*
+>
+> # *Collaboration*
+>==================
+> *This feature allows users of the BI platform to share and discuss information, analysis,
+model results, manage hierarchies via discussion threads, embedded annotations,
+comments and recommendations.*
+>
+> # *Inline Analytics Tools Deployment*
+>======================================
+> -*All the analytical tools described in the previous section are, by their very nature,
+geared for an Offline mode of operation.*
+> - *Offline refers to the fact that the model
+output is not consumed in real time, but rather to aid in human decision making.*
+> - *Credit Card fraud detection process is an example of such real time analytical
+output need.*
+> - *Credit Card fraud detection process is an example of such real time analytical
+output need.*
+> - *The nature of analytical models, however, is that performance of model evaluation
+generally cannot be guaranteed to be within the necessary thresholds to
+support real time decision making.*
+> - *Historical credit card transactions are analyzed to identify patterns on
+known fraudulent transactions. For instance, transactions above $500 on
+jewelry purchases in a particular region could be identified as “High Risk”
+on possible fraud. This would then be loaded as a rule into the OLTP, and
+when such a transaction is encountered, the OLTP would alert an agent to
+seek additional confirmation (Call the card user for instance) before approving
+the transaction. This reduces the occurrence of fraud on these types of
+transactions. The analysis is repeated periodically to identify other such
+rules and the rules Data Mart is updates regularly. This allows the OLTP to
+consume the result of analytical modeling “Inline” or in “real time”. While
+a true “Real Time” system would actually run a scoring algorithm to evaluate
+the probability of fraud, the scoring algorithm is currently too expensive
+(time consumption) to be deployed inline. Such a “true” real time analytical
+model consumption would most certainly be superior to the rule based
+approach used today, but would need significant changes in the OLTP system
+to be able to use a scoring algorithm (that can change dynamically) as
+well is improvements in technology to enable scoring algorithms to evaluate
+thousands and millions of transactions in a time frame that is acceptable to
+be deployed in real-time.*
+
 
 
  
