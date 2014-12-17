@@ -145,6 +145,60 @@ systems, then transform and load them into the data warehouse.*
  2. *Database designs5 in the forms of tables, views, triggers and stored procedures.
 The database can be called a data warehouse or a data mart depending
 on its scope and the ambition of its builders.*
+>
+> # *Solve Data Quality IT Issues*
+>================================
+> - *the IT contact person for this has to figure out if the problem is really
+with IT, and if so to route it to the correct IT team and get it addressed*
+> - *Problems are minimized in the case where the organization is in stage three of
+their BI evolution, where there is no data manipulation in the data arrival stage or
+on the way to it.*
+> - *In many cases, this IT complexity leads to the selection of quick-fixes as
+opposed to design changes.*
+>
+> # *Analytical Datasets and BI Assets*
+>======================================
+> *The data repository represents the single biggest asset of the BI framework and is usually seen as the primary driver
+behind the BI framework.*
+>
+> # *Operational Data Store*
+>===========================
+> - *An Operational Data Store (ODS) integrates data from disparate sources (through
+Data Loading).*
+> - *An operational data store may be designed to store only a limited history of data with older data flushed periodically into a Data Warehouse.*
+>
+> # *Data Warehouse*
+>===================
+> - *A Data warehouse collects data from operational data stores and stores them for
+longer term use. A key aspect of a data warehouse is that data is never deleted
+from a warehouse, and once committed to the warehouse, the data becomes a permanent
+record. Data warehouses are structured to handle complex queries with
+larger data sets.*
+> - *In fact a Data Warehouse is so structured that it proves to be a very expensive way to provide BI infrastructure.*
+>
+> # *Data Mart*
+>===============
+> - *A Data Mart is a specialized cut from the data warehouse extracted for very specific
+business needs. Ownership of these data marts is typically vested with the business units.*
+> - *To reduce the management overhead, care should be exercised to avoid “Mart Proliferation”
+which is a result of indiscriminate creation of new data marts for every new
+business need.*
+
+> # *Data Structuring and Transformation*
+>=========================================
+>- *One key process in a BI framework is the transformation and structuring of data
+into a convenient structure. The choice of structure can be*
+  1. *Hierarchical Dimensions and Facts—a Star Schema.*
+  2. *A Normalized Structure—also called a Third Normal Form.*
+>
+> # *Business Analytics Input Databases*
+> - *The Business Analytics Input Database is an Operational Data Store into which
+data from various sources flows. The data delivered to this stage must be a faithful
+representation of data in the source systems.*
+> - *The design of this database needs to address how the data is synchronized with its source, and to tune the delay (or
+cycle time) and data integrity.*
+
+
 
  
  
