@@ -135,8 +135,16 @@ results of analytics models.*
 >
 ># *Data Loading*
 >==================
-Data loading from internal and external databases is used to bring data from multiple
-disparate repositories into a location that can be shared by many analysts.
+> - *Data loading from internal and external databases is used to bring data from multiple
+disparate repositories into a location that can be shared by many analysts.*
+> - *In many cases, IT teams work to bring these sets of data into a centralized “data
+warehouse” that embeds an IT-supported business model to structure the data. This
+is achieved through two sets of data manipulations:*
+ 1. *Extract-Transform-Load4 (ETL) processes that extract data from the source
+systems, then transform and load them into the data warehouse.*
+ 2. *Database designs5 in the forms of tables, views, triggers and stored procedures.
+The database can be called a data warehouse or a data mart depending
+on its scope and the ambition of its builders.*
 
  
  
