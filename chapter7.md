@@ -197,12 +197,18 @@ data from various sources flows. The data delivered to this stage must be a fait
 representation of data in the source systems.*
 > - *The design of this database needs to address how the data is synchronized with its source, and to tune the delay (or
 cycle time) and data integrity.*
+>
 > # *Business Analytics Ready Databases*
 >=======================================
 > - *A Business Analytics Ready Database is simply a specialized Data Mart upon
 which analytics models are built.*
 > - *Examples of such databases include the ubiquitous OLAP9 cube that is
 very prevalent in providing reporting and visualization analysis.*
+>
+> # *Analytics Tools*
+>=====================
+> *Part of a complete BI framework is a set of analytical tools that are deployed for
+the analysts to use.*
 
 
 
