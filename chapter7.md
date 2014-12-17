@@ -132,6 +132,11 @@ inability to attach them to the common hierarchies.*
 >- *A source of data not generally thought of as a “source” per se, is the output and
 results of analytics models.*
 > - *model output is often used as input to other models.*
+>
+># *Data Loading*
+>==================
+Data loading from internal and external databases is used to bring data from multiple
+disparate repositories into a location that can be shared by many analysts.
 
  
  
