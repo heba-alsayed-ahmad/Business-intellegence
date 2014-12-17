@@ -209,6 +209,14 @@ very prevalent in providing reporting and visualization analysis.*
 >=====================
 > *Part of a complete BI framework is a set of analytical tools that are deployed for
 the analysts to use.*
+>
+> # *Reportin*
+> - *BI tools should have the capability for creation of formatted and interactive reports
+with extensive distribution capabilities*
+> - *The ideal tool should also be able to support a
+wide variety of reporting formats and structures (Graphical, Tabular, Financial,
+Operational, etc.) and provide the ability to distribute these reports effectively
+through the web (Intranet) and mobile devices.*
 
 
 
